@@ -8,7 +8,6 @@ html,
 body {
   font-family: 'Source Code Pro', monospace;
   background: #0f2027; /* fallback for old browsers */
-  overflow-y: hidden;
   background: -webkit-linear-gradient(
     to right,
     #2c5364,
